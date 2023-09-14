@@ -4,11 +4,11 @@
         <div class="row">
             <div class="col-sm-6">
                 <i class="fa fa-envelope"></i>
-                support@email.com
+                NiangEtsFamille@gmail.com
             </div>
             <div class="col-sm-6">
                 <i class="fa fa-phone-alt"></i>
-                +012-345-6789
+                +221 78 312 36 57
             </div>
         </div>
     </div>
@@ -26,7 +26,7 @@
 
             <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                 <div class="navbar-nav mr-auto">
-                    <a href="index.html" class="nav-item nav-link active">Accueil</a>
+                    <a href="{{route("home")}}" class="nav-item nav-link active">Accueil</a>
                     <a href="{{route("archiveProduct")}}" class="nav-item nav-link">Produits</a>
                     <a href="{{route("singleProduct")}}" class="nav-item nav-link">Detail Produit</a>
                     <a href="{{route("cart")}}" class="nav-item nav-link">Panier</a>
@@ -62,8 +62,8 @@
         <div class="row align-items-center">
             <div class="col-md-3">
                 <div class="logo">
-                    <a href="index.html">
-                        <img src="assets/img/logo.png" alt="Logo">
+                    <a href="{{route("home")}}">
+                        <img src="assets/img/logo.png" style="width: 200px" alt="Logo">
                     </a>
                 </div>
             </div>
