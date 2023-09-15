@@ -36,17 +36,17 @@
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Autres</a>
                         <div class="dropdown-menu">
                             <a href="{{route("wishlist")}}" class="dropdown-item">Souhaits</a>
-                            <a href="login.html" class="dropdown-item">Login & Register</a>
+                            <a href="{{route("login")}}" class="dropdown-item">Connexion</a>
                             <a href="{{route("contactus")}}" class="dropdown-item">Contact</a>
                         </div>
                     </div>
                 </div>
                 <div class="navbar-nav ml-auto">
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">User Account</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Compte</a>
                         <div class="dropdown-menu">
-                            <a href="#" class="dropdown-item">Login</a>
-                            <a href="#" class="dropdown-item">Register</a>
+                            <a href="{{route("login")}}" class="dropdown-item">Connexion</a>
+                            <a href="{{route("dashboard")}}" class="dropdown-item">Login</a>
                         </div>
                     </div>
                 </div>

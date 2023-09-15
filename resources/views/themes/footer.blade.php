@@ -76,11 +76,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 copyright">
-                <p>Copyright &copy; <a href="https://htmlcodex.com">HTML Codex</a>. All Rights Reserved</p>
+                <p>Touts droits reservés à &copy; <a href="https://htmlcodex.com">NiangProgrammeur</a>.</p>
             </div>
 
             <div class="col-md-6 template-by">
-                <p>Template By <a href="https://htmlcodex.com">HTML Codex</a></p>
+                <p>Conçu par <a href="https://htmlcodex.com">NiangProgrammeur</a></p>
             </div>
         </div>
     </div>

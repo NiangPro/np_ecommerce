@@ -8,6 +8,6 @@ class ArchiveProduct extends Component
 {
     public function render()
     {
-        return view('livewire.archive-product')->layout("layouts.app");
+        return view('livewire.frontend.archive-product')->layout("layouts.app");
     }
 }

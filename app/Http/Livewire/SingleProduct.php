@@ -8,6 +8,6 @@ class SingleProduct extends Component
 {
     public function render()
     {
-        return view('livewire.single-product')->layout("layouts.app");
+        return view('livewire.frontend.single-product')->layout("layouts.app");
     }
 }
