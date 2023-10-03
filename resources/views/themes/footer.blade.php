@@ -4,18 +4,18 @@
         <div class="row">
             <div class="col-lg-3 col-md-6">
                 <div class="footer-widget">
-                    <h2>Get in Touch</h2>
+                    <h2>Prendre contact</h2>
                     <div class="contact-info">
-                        <p><i class="fa fa-map-marker"></i>123 E Store, Los Angeles, USA</p>
-                        <p><i class="fa fa-envelope"></i>email@example.com</p>
-                        <p><i class="fa fa-phone"></i>+123-456-7890</p>
+                        <p><i class="fa fa-map-marker"></i>Touba Ndindy</p>
+                        <p><i class="fa fa-envelope"></i>NiangEtsFamille@gmail.com</p>
+                        <p><i class="fa fa-phone"></i>+221 783123657</p>
                     </div>
                 </div>
             </div>
             
             <div class="col-lg-3 col-md-6">
                 <div class="footer-widget">
-                    <h2>Follow Us</h2>
+                    <h2>Suivez-nous</h2>
                     <div class="contact-info">
                         <div class="social">
                             <a href=""><i class="fab fa-twitter"></i></a>
@@ -30,22 +30,22 @@
 
             <div class="col-lg-3 col-md-6">
                 <div class="footer-widget">
-                    <h2>Company Info</h2>
+                    <h2>Informations</h2>
                     <ul>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Terms & Condition</a></li>
+                        <li><a href="#">À propos de nous</a></li>
+                        <li><a href="#">Politique de confidentialité</a></li>
+                        <li><a href="#">Conditions générales</a></li>
                     </ul>
                 </div>
             </div>
 
             <div class="col-lg-3 col-md-6">
                 <div class="footer-widget">
-                    <h2>Purchase Info</h2>
+                    <h2>Info sur l'achat</h2>
                     <ul>
-                        <li><a href="#">Pyament Policy</a></li>
-                        <li><a href="#">Shipping Policy</a></li>
-                        <li><a href="#">Return Policy</a></li>
+                        <li><a href="#">Politique de Paiement</a></li>
+                        <li><a href="#">Politique d'expédition</a></li>
+                        <li><a href="#">Politique de retour</a></li>
                     </ul>
                 </div>
             </div>
@@ -54,13 +54,13 @@
         <div class="row payment align-items-center">
             <div class="col-md-6">
                 <div class="payment-method">
-                    <h2>We Accept:</h2>
-                    <img src="assets/img/payment-method.png" alt="Payment Method" />
+                    <h2>Nous acceptons:</h2>
+                    <img src="assets/img/payment.png" alt="Payment Method" />
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="payment-security">
-                    <h2>Secured By:</h2>
+                    <h2>Garanti par:</h2>
                     <img src="assets/img/godaddy.svg" alt="Payment Security" />
                     <img src="assets/img/norton.svg" alt="Payment Security" />
                     <img src="assets/img/ssl.svg" alt="Payment Security" />

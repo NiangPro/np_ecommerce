@@ -22,6 +22,7 @@
         
                 <!-- Template Stylesheet -->
                 <link href="assets/css/style.css" rel="stylesheet">
+                <link href="assets/css/iziToast.min.css" rel="stylesheet">
                 @livewireStyles
             </head>
         
@@ -41,6 +42,8 @@
                 
                 <!-- Template Javascript -->
                 <script src="assets/js/main.js"></script>
+                <script src="assets/js/iziToast.min.js"></script>
+                @yield("js")
                 @livewireScripts
             </body>
         </html>
